@@ -1,0 +1,19 @@
+.Mural{
+    align-content: stretch;
+    align-items: flex-start;
+    background-color: darkgreen;
+    border: 4px outset;
+    text-align: center ;
+}
+.menu{
+    background-color: darkgreen;
+    text-align: right ;
+    
+}
+.city{
+    background-color: brown;
+    color: white;
+    border: 2px solid black;
+    margin: 20px;
+    padding: 20px;
+    }
